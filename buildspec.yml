@@ -32,6 +32,9 @@ artifacts:
     - img/portfolio/5.jpg
     - img/portfolio/6.jpg
     - fonts/glyphicons-halflings-regular.eot
-    - fonts/glyphicons-halflings-regular.html
+    - fonts/glyphicons-halflings-regular.svg
+    - fonts/glyphicons-halflings-regular.ttf
+    - fonts/glyphicons-halflings-regular.woff
+    - fonts/glyphicons-halflings-regular.woff2
     
     
