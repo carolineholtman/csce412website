@@ -3,11 +3,35 @@ version: 0.2
 phases:
   install:
     commands:
-      # Optional: Install any dependencies if needed
       - echo "No build dependencies required for static site."
   build:
     commands:
       - echo "Build phase complete."
 artifacts:
   files:
-    - '**/*' # Include all files in the repository
+    - index.html
+    - .gitignore
+    - less/creative
+    - less/mixins
+    - less/variables
+    - js/bootstrap
+    - js/bootstrap.min
+    - js/cbpAnimatedHeader
+    - js/classie
+    - js/creative
+    - js/jquery.easing.min
+    - js/jquery.fittext
+    - js/jquery
+    - js/jquery
+    - js/wow.min
+    - img/header
+    - img/portfolio/1
+    - img/portfolio/2
+    - img/portfolio/3
+    - img/portfolio/4
+    - img/portfolio/5
+    - img/portfolio/6
+    - fonts/glyphicons-halflings-regular.eot
+    - fonts/glyphicons-halflings-regular.html
+    
+    
