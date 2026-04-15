@@ -11,9 +11,9 @@ artifacts:
   files:
     - index.html
     - .gitignore
-    - less/creative
-    - less/mixins
-    - less/variables
+    - less/creative.less
+    - less/mixins.less
+    - less/variables.less
     - js/bootstrap
     - js/bootstrap.min
     - js/cbpAnimatedHeader
