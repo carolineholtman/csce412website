@@ -14,16 +14,16 @@ artifacts:
     - less/creative.less
     - less/mixins.less
     - less/variables.less
-    - js/bootstrap
-    - js/bootstrap.min
-    - js/cbpAnimatedHeader
-    - js/classie
-    - js/creative
-    - js/jquery.easing.min
-    - js/jquery.fittext
-    - js/jquery
-    - js/jquery
-    - js/wow.min
+    - js/bootstrap.js
+    - js/bootstrap.min.js
+    - js/cbpAnimatedHeader.js
+    - js/classie.js
+    - js/creative.js
+    - js/jquery.easing.min.js
+    - js/jquery.fittext.js
+    - js/jquery.js
+    - js/jquery.js
+    - js/wow.min.js
     - img/header
     - img/portfolio/1
     - img/portfolio/2
