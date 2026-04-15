@@ -24,13 +24,13 @@ artifacts:
     - js/jquery.js
     - js/jquery.js
     - js/wow.min.js
-    - img/header
-    - img/portfolio/1
-    - img/portfolio/2
-    - img/portfolio/3
-    - img/portfolio/4
-    - img/portfolio/5
-    - img/portfolio/6
+    - img/header.jpg
+    - img/portfolio/1.jpg
+    - img/portfolio/2.jpg
+    - img/portfolio/3.jpg
+    - img/portfolio/4.jpg
+    - img/portfolio/5.jpg
+    - img/portfolio/6.jpg
     - fonts/glyphicons-halflings-regular.eot
     - fonts/glyphicons-halflings-regular.html
     
