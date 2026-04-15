@@ -1,0 +1,13 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      # Optional: Install any dependencies if needed
+      - echo "No build dependencies required for static site."
+  build:
+    commands:
+      - echo "Build phase complete."
+artifacts:
+  files:
+    - '**/*' # Include all files in the repository
