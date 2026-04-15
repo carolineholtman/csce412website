@@ -1,12 +1,11 @@
 version: 0.2
 
 phases:
-  install:
-    commands:
-      - echo "No build dependencies required for static site."
   build:
     commands:
-      - echo "Build phase complete."
+      - echo "Syncing files to S3..."
+      # The --content-type flag ensures browsers render the page
+      - aws s3 sync . s3://csce412carolineholtman.me --delete --exclude "buildspec.yml" --content-type "text/html"
 artifacts:
   files:
     - index.html
